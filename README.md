@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently studied on Telkom highschool <br>🤝 I’m looking for help with code<br>🌱 I’m currently learning flutter<br>💬 Ask me about anything<br>⚡ Yeeeehaw
+🔭 I’m currently studied on Polytechnic State Jakarta <br>🤝 I’m looking for help with code<br>🌱 I’m currently learning flutter<br>💬 Ask me about anything<br>⚡ Yeeeehaw
 
 
 ## 🌐 Socials:
